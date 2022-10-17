@@ -1,6 +1,7 @@
-Demostracion de trabajo con branches 
+Proyecto demo para trabajar branches com git 
 
-Esta carpeta contiene algunos codigos que funcionan para demostar el uso de branches en git 
+El directorio contendra algunos codigo en C los cuales
+  se iran actualizando dentro de git
 
-Durante este ejercicio pondremos varios cambios para observar 
-como se trabaja con un branch 
+  Nombre del Alumno: Miguel Angel Lopez Rodriguez
+  Fecha de hoy: 17/10/2022

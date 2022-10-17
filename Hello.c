@@ -1,12 +1,9 @@
-/*
-Hello.c
 
-*/
-
+# include <stdio.h>
 #include <stdio.h>
 
 int main(void){
-    printf("Hola mundo \n");
-    printf("Este es un programa demo \n");
+    printf("Hello wolrd \n");
+    printf("The double of 5 is %i",dobleint(5));
     return 0;
 } 
