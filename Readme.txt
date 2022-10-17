@@ -5,3 +5,4 @@ El directorio contendra algunos codigo en C los cuales
 
   Nombre del Alumno: Miguel Angel Lopez Rodriguez
   Fecha de hoy: 17/10/2022
+  Cambio realizado desde Github
